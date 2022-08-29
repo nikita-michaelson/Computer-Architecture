@@ -1,3 +1,4 @@
+#finding the average of an array
 .data
 Array: .word 1, 5, 7, -10, -15
 length: .word  5
