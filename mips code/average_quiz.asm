@@ -1,3 +1,4 @@
+# finding averages, utilizing procedures in mips
 .data
 A:   .word   3  5  1  8
 length: .word   4
