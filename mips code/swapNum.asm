@@ -1,4 +1,4 @@
-# Assignment swapping floating point numbers 
+#Swapping floating point numbers 
 .data
 numA:	.float	6.0
 numB:	.float	5.5
